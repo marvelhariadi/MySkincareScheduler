@@ -1,4 +1,4 @@
-# Skincare Routine Planner
+# MySkincareScheduler: A Skincare Routine Planner
 
 ## Description:
 ### _What will the application do?_
